@@ -1,6 +1,6 @@
-**THIS PROJECT ENTAILS THE C-PROGRAMMING LANGUAGE**
+**THIS REPO HAS PROJECTS ENTAILS THE C-PROGRAMMING LANGUAGE**
 
 
-Some of the scripts can perform diff functions
+Some of the DIRECTORIES ARE  can perform diff functions
 
-*1. 0-preprocessor 
+*1. 0X00-hello_world
