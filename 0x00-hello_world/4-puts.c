@@ -2,11 +2,8 @@
 
 /*program use puts to print character without printf*/
 int main(void)
-
-{/*tells program to start main ()*/
-	char hp[] = "Programming is like building a multilingual puzzle";
-
-	puts(hp);
+{
+	puts("\ "Programming is like building a multilingual puzzle");
 	return (0);/*this etells code completed without error*/
 
 }
