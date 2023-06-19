@@ -1,7 +1,9 @@
 #include <stdio.h>
+
 /**
- * main -aprogramme that ensures function prinf is used
- * return: (0) -success without error
+ * main - Entry point of the program
+ *
+ * REturn: 0 on success
  */
 
 int main(void)
